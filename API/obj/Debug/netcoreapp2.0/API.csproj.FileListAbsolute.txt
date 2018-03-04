@@ -1,0 +1,11 @@
+c:\users\pedro\source\repos\API_Regiones\API\bin\Debug\netcoreapp2.0\API.deps.json
+c:\users\pedro\source\repos\API_Regiones\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+c:\users\pedro\source\repos\API_Regiones\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+c:\users\pedro\source\repos\API_Regiones\API\bin\Debug\netcoreapp2.0\API.dll
+c:\users\pedro\source\repos\API_Regiones\API\bin\Debug\netcoreapp2.0\API.pdb
+c:\users\pedro\source\repos\API_Regiones\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+c:\users\pedro\source\repos\API_Regiones\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+c:\users\pedro\source\repos\API_Regiones\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+c:\users\pedro\source\repos\API_Regiones\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+c:\users\pedro\source\repos\API_Regiones\API\obj\Debug\netcoreapp2.0\API.dll
+c:\users\pedro\source\repos\API_Regiones\API\obj\Debug\netcoreapp2.0\API.pdb
